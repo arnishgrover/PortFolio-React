@@ -2,7 +2,7 @@
   "name": "arnishgrover.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://arnishgrover.github.io/",
+  "homepage": "https://arnishgrover.github.io/PortFolio-React/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
