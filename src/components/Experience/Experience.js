@@ -30,8 +30,7 @@ class Experience extends Component {
                         Hibernate</p>
                     <p className='experience-detail-text'>Experienced in managing and deploying servers using
                         Kubernetes, Jenkins, K8s</p>
-                    <p className='experience-detail-text'>Experienced in managing NoSQL databases like MongoDB Key
-                        Accomplishments</p>
+                    <p className='experience-detail-text'>Experienced in managing NoSQL databases like MongoDB.</p>
                 </div>
             </div>
         )
